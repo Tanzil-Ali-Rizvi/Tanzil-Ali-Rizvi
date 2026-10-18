@@ -27,6 +27,7 @@ I bring **5+ years in data analytics and business intelligence** across **FinTec
 |---|---|---|
 | **[Enterprise Knowledge Copilot](https://github.com/Tanzil-Ali-Rizvi/enterprise-knowledge-copilot)** · [▶ live demo](https://tanzil-knowledge-copilot.streamlit.app) | Answers employee questions from company documents with citations. Hybrid search (Qdrant + BM25), cross-encoder reranking, role-based access control and prompt-injection guardrails. | 44-case eval suite gated in CI: **100% top-1 retrieval, 0% access-control leaks, 100% correct abstention** |
 | **[AI Due-Diligence Analyst](https://github.com/Tanzil-Ali-Rizvi/ai-due-diligence-analyst)** · [▶ live demo](https://tanzil-due-diligence-agent.streamlit.app) | Multi-agent system (LangGraph) that reviews a startup's data room and writes an investment memo: planner, researcher, analyst with deterministic financial tools, fact-checking critic, and human approval before the memo. | Finds **7/7 planted red flags with 0 false alarms**; critic rejects fabricated claims; CI-gated evals |
+| **[mcp-sql-analyst](https://github.com/Tanzil-Ali-Rizvi/mcp-sql-analyst)** · MCP server | Secure, read-only SQL **MCP server** that lets Claude, Cursor or any MCP client analyse CSV / Parquet data: SQL guard + read-only locked DuckDB sandbox, PII masking, audit log, SaaS-metrics prompt. | **52/52 red-team attacks blocked** in CI; 95 tests incl. stdio end-to-end |
 | **[YouTube AI Research Agent](https://github.com/Tanzil-Ali-Rizvi/youtube-ai-research-agent)** | Durable AI agent that indexes large YouTube playlists (TED-Ed) and turns long-form video into searchable insights. | Python agent pipeline |
 | **[Real-Time Fraud Detection](https://github.com/Tanzil-Ali-Rizvi/real-time-fraud-detection)** | Flags high-risk transactions in real time and explains every decision. | Random Forest · FastAPI · SHAP explainability |
 
@@ -110,7 +111,7 @@ Full details on [LinkedIn](https://www.linkedin.com/in/tanzil-ali-rizvi-7baa691a
 ## 🚧 Currently building
 
 A series of production-style AI projects, each with a live demo, an evaluation suite and CI:
-custom MCP server · QLoRA domain fine-tune · LLM gateway with cost tracking · bilingual voice receptionist · AI code-review agent
+QLoRA domain fine-tune · LLM gateway with cost tracking · bilingual voice receptionist · AI code-review agent
 
 ---
 
