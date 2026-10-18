@@ -9,7 +9,15 @@
   <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20roles-2EA44F" alt="Open to AI Engineer roles">
 </p>
 
-I build **production-grade AI systems**: retrieval-augmented generation with measurable accuracy, tool-using agents, and the evaluation and deployment pipelines that make them trustworthy. I came to AI engineering from **data analytics**, so I start from the business metric and prove results with numbers, not demos.
+I build **production-grade AI systems**: retrieval-augmented generation with measurable accuracy, tool-using agents, and the evaluation and deployment pipelines that make them trustworthy.
+
+I bring **5+ years in data analytics and business intelligence** across **FinTech, Banking and SaaS** (Axis Bank, AI and analytics startups). I've built revenue pipelines and executive dashboards for ARR, MRR and churn, so I start from the business metric and prove results with numbers, not demos.
+
+**Selected impact:**
+- 📉 **80% fewer** reporting discrepancies with automated data validation for revenue-critical leadership reporting
+- ⚡ **66% faster** compliance reporting queries at Axis Bank (15 min → under 5), with 99.9% data accuracy
+- ⏱️ Manual reporting cut from **hours to under 45 minutes** through automated workflows
+- 🏦 ETL pipelines processing **several million records daily** across core banking and loan systems at 99% reliability
 
 ---
 
@@ -41,11 +49,31 @@ I build **production-grade AI systems**: retrieval-augmented generation with mea
 | **[Tableau](https://github.com/Tanzil-Ali-Rizvi/Tableau)** | BI dashboards with advanced calculations and data blending |
 | **[Excel / Google Sheets](https://github.com/Tanzil-Ali-Rizvi/MsExcel_Spreadsheets_GoogleSheets_DataAnalysisProjects)** | Power Query ETL, Power Pivot star schemas, DAX, VBA automation |
 
+## 💼 Experience
+
+| Role | Organisation | Period |
+|---|---|---|
+| Business Intelligence & Analytics Consultant | Humantic AI · EarthSense Labs · DataNeuron (AI, SaaS, Customer Intelligence) | Jun 2024 – Present |
+| Deputy Manager | Axis Bank | Feb 2024 – May 2024 |
+| Data Analytics Consultant | Credgenics · Intello Labs · ParallelDots (FinTech, Agritech AI, Retail AI) | Sep 2022 – May 2023 |
+| Career Development Officer | Jaro Education | Sep 2021 – Jul 2022 |
+| Data Analyst Intern | Cloudshope Technologies | May 2020 – Dec 2020 |
+| Freelance Data Analyst | LUMIQ · ClickPost · Wiom (FinTech, Logistics, Telecom) | Jan 2018 – Jul 2020 |
+
+Full details on [LinkedIn](https://www.linkedin.com/in/tanzil-ali-rizvi-7baa691a5/).
+
+## 🎓 Education
+
+- **PGDM, Banking & Relationship Management**, NIIT University, Neemrana (2023–2024) · CGPA 8.50
+- **MBA, Finance & HR**, Maharaja Agrasen Himalayan Garhwal University (2021–2023) · Grade A
+- **B.Tech, Computer Science & Engineering**, Uttar Pradesh Technical University (2017–2021) · First Division with Honours
+
 ## 🧰 Tech stack
 
-**AI engineering:** LLMs (OpenAI-compatible APIs, Ollama), RAG, embeddings, rerankers, Qdrant, LangGraph / agent frameworks, MCP, QLoRA fine-tuning, LLM evaluation, n8n automation, voice agents
-**Engineering:** Python, FastAPI, SQL, Streamlit, Docker, GitHub Actions CI/CD, pytest
-**Data & BI:** pandas, scikit-learn, SHAP, Power BI (DAX, Power Query), Tableau, Excel
+**AI engineering:** LLMs (OpenAI-compatible APIs, Ollama), RAG, embeddings, rerankers, Qdrant, LangGraph / agent frameworks, MCP, QLoRA fine-tuning, LLM evaluation, n8n automation, voice agents  
+**Engineering:** Python, FastAPI, SQL (SQL Server, MySQL, MongoDB), ETL pipelines, Streamlit, Docker, GitHub Actions CI/CD, pytest  
+**Data & BI:** pandas, NumPy, scikit-learn, R, SHAP, time-series forecasting, Power BI (DAX, Power Query), Tableau, Excel  
+**Domain:** SaaS revenue metrics (ARR, MRR, churn, retention), banking and FinTech reporting, Agile/Scrum
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
@@ -60,7 +88,9 @@ I build **production-grade AI systems**: retrieval-augmented generation with mea
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau">
 </p>
 
-## 🎓 Certifications (2026)
+## 📜 Certifications
+
+*AI engineering tracks (Udemy, 2026):*
 
 - **AI Engineer Core Track:** LLM Engineering, RAG, QLoRA, Agents (33.5 h)
 - **AI Engineer Agentic Track:** The Complete Agent & MCP Course (21 h)
@@ -68,6 +98,10 @@ I build **production-grade AI systems**: retrieval-augmented generation with mea
 - **AI Coder:** Complete Claude Code & Coding Agents (16.5 h)
 - **AI Builder:** Agents, Voice Agents & Automations in n8n (14.5 h)
 - **AI Leader:** Generative AI & Agentic AI for Leaders & Founders (4 h)
+- **Databricks:** Generative AI Fundamentals (2026)
+- **MongoDB:** Vector Search (2026)
+- **Google:** Advanced Data Analytics and Business Intelligence Professional Certificates (2025)
+- **NPTEL+ / IIT Madras:** Decoding the EU AI Act (2025)
 
 ## 🚧 Currently building
 
