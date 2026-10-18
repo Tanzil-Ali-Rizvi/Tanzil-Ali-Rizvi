@@ -21,13 +21,25 @@ I build **production-grade AI systems**: retrieval-augmented generation with mea
 | **[YouTube AI Research Agent](https://github.com/Tanzil-Ali-Rizvi/YouTube-AI-Research-Agent-TED-Ed-Educational-Insights)** | Durable AI agent that indexes large YouTube playlists (TED-Ed) and turns long-form video into searchable insights. | Python agent pipeline |
 | **[Real-Time Fraud Detection](https://github.com/Tanzil-Ali-Rizvi/Real-Time-Fraud-Detection)** | Flags high-risk transactions in real time and explains every decision. | Random Forest · FastAPI · SHAP explainability |
 
-## 📊 Data analytics foundation
+## 📈 Advanced data analytics projects
 
 | Project | Highlights |
 |---|---|
+| **[Employee Retention Prediction](https://github.com/Tanzil-Ali-Rizvi/Salifort-Motors-Employee-Retention---Advance-DA-Project)** | Attrition model on a 100K-employee HR dataset (PACE framework, EDA, logistic regression) |
 | **[Multi-domain DA Portfolio](https://github.com/Tanzil-Ali-Rizvi/Major_5_DA_Portfolio_Proj)** | Data-driven impact across 5 domains (Netflix, Amazon, SaaS and more), incl. marketing-spend optimisation by marginal ROI |
-| **[Employee Retention Prediction](https://github.com/Tanzil-Ali-Rizvi/Salifort-Motors-Employee-Retention---Advance-DA-Project)** | Attrition model on a 100K-employee HR dataset (PACE framework, logistic regression) |
-| **[Power BI](https://github.com/Tanzil-Ali-Rizvi/Power_BI_Projects)** · **[Tableau](https://github.com/Tanzil-Ali-Rizvi/Tableau)** · **[Excel / Sheets](https://github.com/Tanzil-Ali-Rizvi/MsExcel_Spreadsheets_GoogleSheets_DataAnalysisProjects)** | Interactive BI dashboards, star-schema data models, DAX, Power Query ETL |
+
+## 📊 Power BI projects
+
+| Project | Highlights |
+|---|---|
+| **[Power BI Dashboards](https://github.com/Tanzil-Ali-Rizvi/Power_BI_Projects)** | Interactive dashboards built with Power BI Desktop, Excel, SQL and Power Query; data modelling and DAX |
+
+## 🔍 Analysis projects
+
+| Project | Highlights |
+|---|---|
+| **[Tableau](https://github.com/Tanzil-Ali-Rizvi/Tableau)** | BI dashboards with advanced calculations and data blending |
+| **[Excel / Google Sheets](https://github.com/Tanzil-Ali-Rizvi/MsExcel_Spreadsheets_GoogleSheets_DataAnalysisProjects)** | Power Query ETL, Power Pivot star schemas, DAX, VBA automation |
 
 ## 🧰 Tech stack
 
