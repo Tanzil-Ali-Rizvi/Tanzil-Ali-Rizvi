@@ -26,28 +26,28 @@ I bring **5+ years in data analytics and business intelligence** across **FinTec
 | Project | What it does | Proof |
 |---|---|---|
 | **[Enterprise Knowledge Copilot](https://github.com/Tanzil-Ali-Rizvi/enterprise-knowledge-copilot)** · [▶ live demo](https://tanzil-knowledge-copilot.streamlit.app) | Answers employee questions from company documents with citations. Hybrid search (Qdrant + BM25), cross-encoder reranking, role-based access control and prompt-injection guardrails. | 44-case eval suite gated in CI: **100% top-1 retrieval, 0% access-control leaks, 100% correct abstention** |
-| **[YouTube AI Research Agent](https://github.com/Tanzil-Ali-Rizvi/YouTube-AI-Research-Agent-TED-Ed-Educational-Insights)** | Durable AI agent that indexes large YouTube playlists (TED-Ed) and turns long-form video into searchable insights. | Python agent pipeline |
-| **[Real-Time Fraud Detection](https://github.com/Tanzil-Ali-Rizvi/Real-Time-Fraud-Detection)** | Flags high-risk transactions in real time and explains every decision. | Random Forest · FastAPI · SHAP explainability |
+| **[YouTube AI Research Agent](https://github.com/Tanzil-Ali-Rizvi/youtube-ai-research-agent)** | Durable AI agent that indexes large YouTube playlists (TED-Ed) and turns long-form video into searchable insights. | Python agent pipeline |
+| **[Real-Time Fraud Detection](https://github.com/Tanzil-Ali-Rizvi/real-time-fraud-detection)** | Flags high-risk transactions in real time and explains every decision. | Random Forest · FastAPI · SHAP explainability |
 
 ## 📈 Advanced data analytics projects
 
 | Project | Highlights |
 |---|---|
-| **[Employee Retention Prediction](https://github.com/Tanzil-Ali-Rizvi/Salifort-Motors-Employee-Retention---Advance-DA-Project)** | Attrition model on a 100K-employee HR dataset (PACE framework, EDA, logistic regression) |
-| **[Multi-domain DA Portfolio](https://github.com/Tanzil-Ali-Rizvi/Major_5_DA_Portfolio_Proj)** | Data-driven impact across 5 domains (Netflix, Amazon, SaaS and more), incl. marketing-spend optimisation by marginal ROI |
+| **[Employee Retention Prediction](https://github.com/Tanzil-Ali-Rizvi/employee-retention-prediction)** | Attrition model on a 100K-employee HR dataset (PACE framework, EDA, logistic regression) |
+| **[Multi-domain DA Portfolio](https://github.com/Tanzil-Ali-Rizvi/multi-domain-analytics-portfolio)** | Data-driven impact across 5 domains (Netflix, Amazon, SaaS and more), incl. marketing-spend optimisation by marginal ROI |
 
 ## 📊 Power BI projects
 
 | Project | Highlights |
 |---|---|
-| **[Power BI Dashboards](https://github.com/Tanzil-Ali-Rizvi/Power_BI_Projects)** | Interactive dashboards built with Power BI Desktop, Excel, SQL and Power Query; data modelling and DAX |
+| **[Power BI Dashboards](https://github.com/Tanzil-Ali-Rizvi/power-bi-dashboards)** | Interactive dashboards built with Power BI Desktop, Excel, SQL and Power Query; data modelling and DAX |
 
 ## 🔍 Analysis projects
 
 | Project | Highlights |
 |---|---|
-| **[Tableau](https://github.com/Tanzil-Ali-Rizvi/Tableau)** | BI dashboards with advanced calculations and data blending |
-| **[Excel / Google Sheets](https://github.com/Tanzil-Ali-Rizvi/MsExcel_Spreadsheets_GoogleSheets_DataAnalysisProjects)** | Power Query ETL, Power Pivot star schemas, DAX, VBA automation |
+| **[Tableau](https://github.com/Tanzil-Ali-Rizvi/tableau-dashboards)** | BI dashboards with advanced calculations and data blending |
+| **[Excel / Google Sheets](https://github.com/Tanzil-Ali-Rizvi/excel-sheets-analytics)** | Power Query ETL, Power Pivot star schemas, DAX, VBA automation |
 
 ## 💼 Experience
 
