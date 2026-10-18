@@ -98,6 +98,9 @@ Full details on [LinkedIn](https://www.linkedin.com/in/tanzil-ali-rizvi-7baa691a
 - **AI Coder:** Complete Claude Code & Coding Agents (16.5 h)
 - **AI Builder:** Agents, Voice Agents & Automations in n8n (14.5 h)
 - **AI Leader:** Generative AI & Agentic AI for Leaders & Founders (4 h)
+
+*Data & AI certifications:*
+
 - **Databricks:** Generative AI Fundamentals (2026)
 - **MongoDB:** Vector Search (2026)
 - **Google:** Advanced Data Analytics and Business Intelligence Professional Certificates (2025)
