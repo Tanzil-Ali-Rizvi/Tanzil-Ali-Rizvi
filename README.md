@@ -1,17 +1,22 @@
 <h1 align="center">Hi, I'm Tanzil Ali Rizvi 👋</h1>
-<h3 align="center">AI Engineer · RAG · AI Agents & MCP · LLM Evaluation & Deployment</h3>
+<h3 align="center">Data & Business Analyst · AI Engineer</h3>
+<p align="center"><b>SQL · Python · Power BI · Tableau · Excel</b> &nbsp;|&nbsp; <b>RAG · AI Agents & MCP · LLM Evaluation & Deployment</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanzil-ali-rizvi-7baa691a5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:tanzilali.rizvi@gmail.com"><img src="https://img.shields.io/badge/Email-tanzilali.rizvi%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://tanzil-knowledge-copilot.streamlit.app"><img src="https://img.shields.io/badge/Live%20demo-Knowledge%20Copilot-FF4B4B?logo=streamlit&logoColor=white" alt="Live demo"></a>
   <img src="https://img.shields.io/badge/Location-India-138808" alt="India">
+  <img src="https://img.shields.io/badge/Open%20to-Analyst%20roles-2EA44F" alt="Open to Analyst roles">
   <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20roles-2EA44F" alt="Open to AI Engineer roles">
 </p>
 
-I build **production-grade AI systems**: retrieval-augmented generation with measurable accuracy, tool-using agents, and the evaluation and deployment pipelines that make them trustworthy.
+I turn data into decisions, and then I build the AI that keeps answering the next question.
 
-I bring **5+ years in data analytics and business intelligence** across **FinTech, Banking and SaaS** (Axis Bank, AI and analytics startups). I've built revenue pipelines and executive dashboards for ARR, MRR and churn, so I start from the business metric and prove results with numbers, not demos.
+- **As an analyst:** **5+ years in data analytics and business intelligence** across **FinTech, Banking and SaaS** (Axis Bank, AI and analytics startups). I build revenue pipelines, A/B tests, forecasts and executive dashboards for ARR, MRR and churn, starting from the business metric and proving results with numbers.
+- **As an AI engineer:** I build **production-grade AI systems**: retrieval-augmented generation with measurable accuracy, tool-using agents, and the evaluation and deployment pipelines that make them trustworthy.
+
+**Jump to:** [📊 Analyst & BI work](#-for-analyst--bi-roles) · [🤖 AI engineering work](#-for-ai-engineering-roles)
 
 **Selected impact:**
 - 📉 **80% fewer** reporting discrepancies with automated data validation for revenue-critical leadership reporting
@@ -21,10 +26,27 @@ I bring **5+ years in data analytics and business intelligence** across **FinTec
 
 ---
 
-## ⭐ Featured AI projects
+## 📊 For analyst & BI roles
+
+Business questions answered with SQL, statistics and dashboards, grouped by the analyst role they fit.
+
+| Role fit | Project | Business result |
+|---|---|---|
+| **Business / Business Systems Analyst** | [Requirements-to-Insight Copilot](https://github.com/Tanzil-Ali-Rizvi/requirements-insight-copilot) | Traced 6,534 late deliveries (6.8% of 96k orders) to 3 root causes; wrote the BRD, user stories and to-be process; late seller handoffs carry **3.9x late risk**, 83 sellers cause half |
+| **Product / Marketing Analyst** | [Netflix content A/B test](https://github.com/Tanzil-Ali-Rizvi/multi-domain-analytics-portfolio) | **7.17% lift** in engagement (p < 0.001) from longer previews; power analysis and t-tests |
+| **Marketing / Growth Analyst** | [Marketing mix model](https://github.com/Tanzil-Ali-Rizvi/multi-domain-analytics-portfolio) | Across $2.5M ad spend, podcasts had the highest marginal ROI; recommended a **15% budget reallocation** |
+| **Operations / Supply Chain Analyst** | [Last-mile logistics bottleneck](https://github.com/Tanzil-Ali-Rizvi/multi-domain-analytics-portfolio) | Isolated a **$192k/month** recovery cost at one hub; showed the delay was operational, not geographic |
+| **Data / Customer Analyst** | [SaaS churn & retention engine](https://github.com/Tanzil-Ali-Rizvi/multi-domain-analytics-portfolio) | **82% recall** churn model; support latency identified as the main churn driver |
+| **People / HR Analyst** | [Employee retention prediction](https://github.com/Tanzil-Ali-Rizvi/employee-retention-prediction) | Attrition model with **recall > 0.80**; workload and burnout identified as the main drivers |
+| **Financial Analyst** | [AI Due-Diligence Analyst](https://github.com/Tanzil-Ali-Rizvi/ai-due-diligence-analyst) | Data-room review with deterministic financial tools; found **7/7 planted red flags, 0 false alarms** |
+| **Risk Analyst** | [Real-time fraud detection](https://github.com/Tanzil-Ali-Rizvi/real-time-fraud-detection) | Flags risky transactions in **under 50 ms** with SHAP reason codes for every decision |
+| **BI Analyst** | [Power BI](https://github.com/Tanzil-Ali-Rizvi/power-bi-dashboards) · [Tableau](https://github.com/Tanzil-Ali-Rizvi/tableau-dashboards) · [Excel / Sheets](https://github.com/Tanzil-Ali-Rizvi/excel-sheets-analytics) | Data modelling, DAX, Power Query ETL, Power Pivot star schemas, VBA automation |
+
+## 🤖 For AI engineering roles
 
 | Project | What it does | Proof |
 |---|---|---|
+| **[Requirements-to-Insight Copilot](https://github.com/Tanzil-Ali-Rizvi/requirements-insight-copilot)** | Copilot that answers stakeholder questions from a BRD, policies and a delivery data warehouse: governed metric layer first, guarded text-to-SQL as fallback, two-wall DuckDB sandbox, runs offline or on any OpenAI-compatible model. | **30/30 red-team SQL blocked**; held-out eval reported next to the tuned set (95% routing); 73 tests in CI |
 | **[Enterprise Knowledge Copilot](https://github.com/Tanzil-Ali-Rizvi/enterprise-knowledge-copilot)** · [▶ live demo](https://tanzil-knowledge-copilot.streamlit.app) | Answers employee questions from company documents with citations. Hybrid search (Qdrant + BM25), cross-encoder reranking, role-based access control and prompt-injection guardrails. | 44-case eval suite gated in CI: **100% top-1 retrieval, 0% access-control leaks, 100% correct abstention** |
 | **[AI Due-Diligence Analyst](https://github.com/Tanzil-Ali-Rizvi/ai-due-diligence-analyst)** · [▶ live demo](https://tanzil-due-diligence-agent.streamlit.app) | Multi-agent system (LangGraph) that reviews a startup's data room and writes an investment memo: planner, researcher, analyst with deterministic financial tools, fact-checking critic, and human approval before the memo. | Finds **7/7 planted red flags with 0 false alarms**; critic rejects fabricated claims; CI-gated evals |
 | **[mcp-sql-analyst](https://github.com/Tanzil-Ali-Rizvi/mcp-sql-analyst)** · MCP server | Secure, read-only SQL **MCP server** that lets Claude, Cursor or any MCP client analyse CSV / Parquet data: SQL guard + read-only locked DuckDB sandbox, PII masking, audit log, SaaS-metrics prompt. | **52/52 red-team attacks blocked** in CI; 95 tests incl. stdio end-to-end |
@@ -33,26 +55,6 @@ I bring **5+ years in data analytics and business intelligence** across **FinTec
 | **[bank-txn-parser-qlora](https://github.com/Tanzil-Ali-Rizvi/bank-txn-parser-qlora)** · [▶ live demo](https://tanzil-bank-txn-parser.streamlit.app) · [🤗 model](https://huggingface.co/TARizvi/bank-txn-parser-qwen2.5-1.5b) | **QLoRA fine-tune** of Qwen2.5-1.5B on a free Kaggle T4 that turns Indian bank SMS alerts and statement lines (UPI, NEFT, card, NACH …) into JSON. Regex and few-shot baselines, held-out merchants and formats, 8-bit GGUF for CPU. | On unseen merchants/formats: **72% exact match vs 32% regex, 17% few-shot**; 98% on seen formats |
 | **[YouTube AI Research Agent](https://github.com/Tanzil-Ali-Rizvi/youtube-ai-research-agent)** | Durable AI agent that indexes large YouTube playlists (TED-Ed) and turns long-form video into searchable insights. | Python agent pipeline |
 | **[Real-Time Fraud Detection](https://github.com/Tanzil-Ali-Rizvi/real-time-fraud-detection)** | Flags high-risk transactions in real time and explains every decision. | Random Forest · FastAPI · SHAP explainability |
-
-## 📈 Advanced data analytics projects
-
-| Project | Highlights |
-|---|---|
-| **[Employee Retention Prediction](https://github.com/Tanzil-Ali-Rizvi/employee-retention-prediction)** | Attrition model on a 100K-employee HR dataset (PACE framework, EDA, logistic regression) |
-| **[Multi-domain DA Portfolio](https://github.com/Tanzil-Ali-Rizvi/multi-domain-analytics-portfolio)** | Data-driven impact across 5 domains (Netflix, Amazon, SaaS and more), incl. marketing-spend optimisation by marginal ROI |
-
-## 📊 Power BI projects
-
-| Project | Highlights |
-|---|---|
-| **[Power BI Dashboards](https://github.com/Tanzil-Ali-Rizvi/power-bi-dashboards)** | Interactive dashboards built with Power BI Desktop, Excel, SQL and Power Query; data modelling and DAX |
-
-## 🔍 Analysis projects
-
-| Project | Highlights |
-|---|---|
-| **[Tableau](https://github.com/Tanzil-Ali-Rizvi/tableau-dashboards)** | BI dashboards with advanced calculations and data blending |
-| **[Excel / Google Sheets](https://github.com/Tanzil-Ali-Rizvi/excel-sheets-analytics)** | Power Query ETL, Power Pivot star schemas, DAX, VBA automation |
 
 ## 💼 Experience
 
@@ -75,9 +77,9 @@ Full details on [LinkedIn](https://www.linkedin.com/in/tanzil-ali-rizvi-7baa691a
 
 ## 🧰 Tech stack
 
+**Data & BI:** SQL (SQL Server, MySQL, MongoDB), pandas, NumPy, scikit-learn, R, statistics and A/B testing, SHAP, time-series forecasting, Power BI (DAX, Power Query), Tableau, Excel (Power Pivot, VBA)  
 **AI engineering:** LLMs (OpenAI-compatible APIs, Ollama), RAG, embeddings, rerankers, Qdrant, LangGraph / agent frameworks, MCP, QLoRA fine-tuning, LLM evaluation, n8n automation, voice agents  
-**Engineering:** Python, FastAPI, SQL (SQL Server, MySQL, MongoDB), ETL pipelines, Streamlit, Docker, GitHub Actions CI/CD, pytest  
-**Data & BI:** pandas, NumPy, scikit-learn, R, SHAP, time-series forecasting, Power BI (DAX, Power Query), Tableau, Excel  
+**Engineering:** Python, FastAPI, ETL pipelines, Streamlit, Docker, GitHub Actions CI/CD, pytest  
 **Domain:** SaaS revenue metrics (ARR, MRR, churn, retention), banking and FinTech reporting, Agile/Scrum
 
 <p>
@@ -108,14 +110,14 @@ Full details on [LinkedIn](https://www.linkedin.com/in/tanzil-ali-rizvi-7baa691a
 
 - **Databricks:** Generative AI Fundamentals (2026)
 - **MongoDB:** Vector Search (2026)
-- **Google:** Advanced Data Analytics and Business Intelligence Professional Certificates (2025)
+- **Google:** Data Analytics, Advanced Data Analytics and Business Intelligence Professional Certificates (2025)
 - **NPTEL+ / IIT Madras:** Decoding the EU AI Act (2025)
 
 ## 🚧 Currently building
 
-A series of production-style AI projects, each with a live demo, an evaluation suite and CI:
-bilingual voice receptionist · AI code-review agent · document-intake automation
+- **Analyst series:** one industry project per analyst field (operations, PMO, healthcare, supply chain, economics; business systems done), each with a dashboard, a written recommendation and an AI assistant on top.
+- **AI engineering series:** production-style projects, each with a live demo, an evaluation suite and CI: bilingual voice receptionist · AI code-review agent · document-intake automation.
 
 ---
 
-<p align="center"><b>Hiring for AI engineering?</b> I'd love to talk: <a href="https://www.linkedin.com/in/tanzil-ali-rizvi-7baa691a5/">LinkedIn</a> · <a href="mailto:tanzilali.rizvi@gmail.com">tanzilali.rizvi@gmail.com</a></p>
+<p align="center"><b>Hiring an analyst or an AI engineer?</b> I'd love to talk: <a href="https://www.linkedin.com/in/tanzil-ali-rizvi-7baa691a5/">LinkedIn</a> · <a href="mailto:tanzilali.rizvi@gmail.com">tanzilali.rizvi@gmail.com</a></p>
